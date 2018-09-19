@@ -4,10 +4,9 @@ return "Happy holidays!"
 }
 
 var greeting = "Happy holidays"
-var Name = "you"
+var Name = "Happy holidays, you!"
 function happyHolidaysTo(Name) {
   return `${"greeting"}, ${Name}!`
-  console.log (name () === "happy holidays, you!")
 }
 
 function happyHolidaysTo () {
