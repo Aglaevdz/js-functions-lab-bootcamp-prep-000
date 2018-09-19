@@ -5,6 +5,7 @@ return "Happy holidays!"
 
 var Name = "Happy holidays, you!"
 function happyHolidaysTo(Name) {
+  console.log ("Happy holidays, you")
   return `${Name}!`
 }
 
